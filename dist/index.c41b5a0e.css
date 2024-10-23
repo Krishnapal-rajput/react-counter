@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  display: flex;
+}
+
+.counter {
+  text-align: center;
+  margin-bottom: 24px;
+  font-family: cursive;
+  font-weight: 800;
+}
+
+button {
+  cursor: pointer;
+  background: #fff;
+  border-radius: 8px;
+  margin-right: 24px;
+  font-family: cursive;
+  font-weight: bold;
+}
+/*# sourceMappingURL=index.c41b5a0e.css.map */
