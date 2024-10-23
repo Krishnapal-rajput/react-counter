@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.counter{
+    text-align: center;
+    margin-bottom: 24px;
+    font-weight: 800;
+    font-family: cursive;
+}
+button{
+    font-family: cursive;
+    margin-right: 24px;
+    background: #fff;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+}
